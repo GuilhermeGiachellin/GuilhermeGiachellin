@@ -7,7 +7,7 @@
 
 - I'm a full-stack developer based on Brazil.
 - I find everything programming related facinating.
-- I'm searching for a job that can test my skills.
+- I'm working currently as a developer at the moment.
 - In my free time I love to play RTS games and drawn random stuff.
 
 ## My skillset
@@ -18,7 +18,6 @@
 ![Rails](https://img.shields.io/badge/rails-%23CC0000.svg?style=for-the-badge&logo=ruby-on-rails&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 
 ## My stats
