@@ -8,7 +8,7 @@
 - I'm a full-stack developer based on Brazil.
 - I find everything programming related facinating.
 - I'm working currently as a developer at the moment.
-- In my free time I love to play RTS games and drawn random stuff.
+- In my free time I love to play RTS games and drawn pixel art.
 
 ## My skillset
 
