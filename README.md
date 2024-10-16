@@ -7,8 +7,9 @@
 
 - I'm a full-stack developer based on Brazil.
 - I find everything programming related facinating.
-- I'm working currently as a developer at the moment.
+- I'm working as a Flutter/Java developer at the moment.
 - In my free time I love to play RTS games and drawn pixel art.
+- I've been developing games in my free time.
 
 ## My skillset
 
